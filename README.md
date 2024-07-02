@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm sanjay prajapati</h1>
-<h3 align="center">Currently , A Final year Student of Artificial Intelligence and Data Science Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sanjay-cs&label=Profile%20views&color=0e75b6&style=flat" alt="i-sanjay-cs" /> </p>
 
