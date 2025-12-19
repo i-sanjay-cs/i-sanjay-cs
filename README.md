@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Prajapati</h1>
-<h3 align="center">A passionate Tech Enthusiast working as AI Engineer at Dassh.ai</h3>
+<h3 align="center">A passionate Tech Enthusiast working as AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sanjay-cs&label=Profile%20views&color=0e75b6&style=flat" alt="i-sanjay-cs" /> </p>
 - 📫 How to reach me **sanjay826870@gmail.com**
