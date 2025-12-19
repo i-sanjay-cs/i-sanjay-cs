@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Tech Enthusiast working as AI Engineer at Dassh.ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sanjay-cs&label=Profile%20views&color=0e75b6&style=flat" alt="i-sanjay-cs" /> </p>
-
-- Dassh AI (Smart Hiring Product) which helps HR to make their life smooth without going through lots of Profiles Dassh AI do it for them using its Intelligent AI [Dassh.ai](www.Dassh.ai)
-
 - 📫 How to reach me **sanjay826870@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
