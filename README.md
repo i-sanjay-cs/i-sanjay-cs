@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Tech Enthusiast working as AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sanjay-cs&label=Profile%20views&color=0e75b6&style=flat" alt="i-sanjay-cs" /> </p>
-- 📫 How to reach me **sanjay826870@gmail.com**
+- 📫 How to reach me sanjay826870@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
